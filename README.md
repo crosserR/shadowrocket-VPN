@@ -1,4 +1,4 @@
-# shadowrocketX
+# shadowrocket-VPN
 
 ```
  永久免费 无限流量 免费VPN梯子 支持Trojan、Vmess、VLESS、Socks、Shadowsocks协议
@@ -20,3 +20,4 @@
 内置大量全球免费节点，完全免费，欢迎来撸。
 
 ```
+网站： <https://shadowrocket.v2cross.com>
